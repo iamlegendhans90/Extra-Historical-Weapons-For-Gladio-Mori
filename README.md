@@ -190,4 +190,4 @@ This repository serves as the official landing page for Extra Historical Weapons
 **Get the most recent version of Extra Historical Weapons for Gladio Mori today!**
 
 ---
-**Last updated:** 2026-11-10 10:31:40 UTC
+**Last updated:** 2026-11-10 18:19:49 UTC
